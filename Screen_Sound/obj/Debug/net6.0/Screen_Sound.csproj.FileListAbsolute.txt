@@ -1,0 +1,14 @@
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.exe
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.deps.json
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.runtimeconfig.json
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.dll
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.pdb
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.AssemblyInfo.cs
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.dll
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\refint\Screen_Sound.dll
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.pdb
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.genruntimeconfig.cache
+C:\Users\55119\Documents\Programas\Visual Studio 2022\Projetos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\ref\Screen_Sound.dll
