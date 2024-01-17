@@ -5,6 +5,13 @@ class Musica
     public string Artista { get; set; }
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
+    public string DescricaoResumida 
+    {
+        get
+        {
+            return $"A música {Nome} pertence á banda {Artista}";
+        }
+    }
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"Nome da Música: {Nome}");
