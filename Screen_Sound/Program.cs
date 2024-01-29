@@ -51,7 +51,7 @@ void ExibirOpcoesDoMenu()
             AvaliarUmaBanda();
             break;
         case 5:
-            ; ExibirDetalhes();
+            ExibirDetalhes();
             break;
         case -1:
             Console.WriteLine($"Até mais! Obrigado");

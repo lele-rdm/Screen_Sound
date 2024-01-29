@@ -24,8 +24,8 @@ class Banda
         }
     }
 
-    public void AdicionarNota(double nota)
+    public void AdicionarNota(int nota)
     {
-        
+        notas.Add(nota);
     }
 }
