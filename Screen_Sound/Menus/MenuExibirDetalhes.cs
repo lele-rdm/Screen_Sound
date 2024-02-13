@@ -4,9 +4,9 @@ namespace Screen_Sound.Menus;
 
 internal class MenuExibirDetalhes : Menu
 {
-    public void Executar(Dictionary<string, Banda> bandasRegistradas)
+    public override void Executar(Dictionary<string, Banda> bandasRegistradas)
     {
-        Console.Clear();
+        base.Executar(bandasRegistradas);
         ExibirTituloDaOpcao("  Exibir Média da Banda  ");
         Console.Write("Digite o nome da banda que deseja exibir a média: ");
         string nomeDaBanda = Console.ReadLine()!;

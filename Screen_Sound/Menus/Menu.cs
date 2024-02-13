@@ -1,4 +1,6 @@
-﻿namespace Screen_Sound.Menus;
+﻿using Screen_Sound.Modelos;
+
+namespace Screen_Sound.Menus;
 
 internal class Menu
 {
@@ -9,5 +11,10 @@ internal class Menu
         Console.WriteLine(simbolos);
         Console.WriteLine(titulo);
         Console.WriteLine($"{simbolos}\n");
+    }
+
+    public virtual void Executar(Dictionary<string, Banda> bandasRegistradas)
+    {
+        Console.Clear();
     }
 }
